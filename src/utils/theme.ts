@@ -1,0 +1,15 @@
+export const colors = {
+  black: '#000000',
+  blackOpacity03: 'rgba(0, 0, 0, 0.3)',
+  error: '#d0021a',
+  gray: '#808080',
+  lightGray: '#d3d3d3',
+  sitemateBlue: '#1571f8',
+  sitemateBlueOpacity: 'rgba(21, 113, 248, 0.15)',
+  sitemateDarkBlue: '#182a4a',
+  sitemateGray: '#666666',
+  sitemateOrange: '#ef8827',
+  sitemateOrangeOpacity: 'rgba(239, 136, 39, 0.4)',
+  placeholderGray: '#F5F5F5',
+  white: '#ffffff',
+};
